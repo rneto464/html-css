@@ -1,0 +1,83 @@
+body{
+    background-color:#868480;font-family: 'Pacifico', cursive;
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+p{
+    text-align: justify;
+}
+    
+
+
+h1#principal {
+    background-color: rgb(185, 182, 178); 
+    
+    text-align: center;
+    font-size: 45px;
+    
+    
+}
+.titulo2{
+    background-color: #6F6878;
+    text-align: center;
+}
+.info1{
+    background-color: rgb(185, 182, 178);
+
+}
+.titulo3{
+    background-color: #6F6878;
+    text-align: left;
+}
+
+.outro1{
+    background-color: #F00600;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px
+}
+  
+div:hover{
+    color: #F00600;
+}
+
+div > a{
+    display: none;
+ 
+}
+div:hover > a{
+    display: block;
+    color: white;
+    background-color: #F00600;
+    width: 126px;
+   
+}
+
+
+
+a{
+    color: #F00600;
+    text-decoration: none;
+    font-weight: bold;
+     text-align: center;
+
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+a:active{
+    color:#6F6878 
+}

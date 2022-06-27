@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(241, 1, 1, 0.918);
+    text-align: center;
+    font: Times;
+    font-size: medium;
+}
+
+p{
+    color: bisque;
+    font-size: medium;
+    font: Times;
+}
+
+
+h4{
+    font-size: medium;
+    font-style: Times;
+}
+
+h5{
+    text-align: justify
+}
+table{
+    margin: auto;
+}
