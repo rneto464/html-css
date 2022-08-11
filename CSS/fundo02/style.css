@@ -1,0 +1,26 @@
+div.quadrado{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+}
+
+body{
+    background-image: url(fotosfundo/wallpaper004.jpg);
+}
+
+
+div#q1{
+   background-color: aquamarine;
+
+}
+
+div#q2{
+   background-image: linear-gradient(to bottom, yellow,orange);
+}
+
+div#q3{
+   background-image: url(fotosfundo/pattern003.png);
+}
